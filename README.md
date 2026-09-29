@@ -6,7 +6,7 @@ Most of those were made on my Numworks calculator during school hours.
 You might find some interesting stuff in there maybe,
 some experimental project in there might become something if I ever get back to those.
 
-Don't judge my optimisation, most of those had to run on [Numworks hardware](https://www.numworks.com/engineering/specs/) with a whopping unstable 45hz refresh rate
+Don't judge my optimisation, I was learning and most of those had to run on [Numworks hardware](https://www.numworks.com/engineering/specs/) with a whopping unstable 45hz refresh rate
 
 Not much is commented, I might improve that someday.
 
