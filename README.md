@@ -15,3 +15,5 @@ Nonetheless I'm still impressed by what's possible with little imagination and l
 
 # Running the "Stuff"
 Most of those import librairies like `kandinsky` that are proper to Numworks calculator, you might need to [run them on their emulator](https://www.numworks.com/simulator/) or on your own.
+
+Feel me to credit me if you find anything useful, or not.
